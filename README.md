@@ -5,7 +5,7 @@ These are tools and websites that are helpful
  
   - [Malware Check](#-malware-check) - Websites/Softwares that check files for malware
   - [Linux Tools](#-linux-tools) - Tools made for Linux
-  - [Remote Access Tool (RAT)](#-remote-access-tool) - A tool that grants access to another persons computer
+  - [Remote Access Tool](#-remote-access-tool) - A tool that grants access to another persons computer
   - [Virtual Machine](#-virtual-machine) - A virtual computer
   - [Token Logger](#-token-logger) - A tool that steals discord tokens
   - [Discord Tools](#-discord-tools) - Tools for discord
@@ -20,7 +20,7 @@ These are tools and websites that are helpful
 * [Zphisher](https://github.com/htr-tech/zphisher) - A tool that generates phising links to gain access to a users accound and gives you there IP
 * [Sherlock](https://github.com/sherlock-project/sherlock) - A tool that searches usernames on diffrent social medias and gives you the link to there accounts
 
-## [↑](#-Table-of-Contents)  Remote Access Tool (RAT)
+## [↑](#-Table-of-Contents)  Remote Access Tool
 * [Async](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - A remote access tool
 * [Quasar](https://github.com/quasar/Quasar) - A remote access tool
 
