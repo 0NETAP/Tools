@@ -40,7 +40,7 @@
 * [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
 * [Clear DM](https://github.com/Da532/Clear) - Delete all your messages sent to a person in dm automatically.
 
-## [↑](#-Table-of-Contents)  OSINT
+## [↑](#-Table-of-Contents) OSINT
 * [OSINT Websites/Information](https://github.com/jivoi/awesome-osint) - A collection of osint programs, websites, and lessions
 
 
