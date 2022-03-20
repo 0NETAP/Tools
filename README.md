@@ -8,7 +8,7 @@ These are tools and websites that are helpful
   - [Remote Access Tool](#-remote-access-tool) - A tool that grants access to another persons computer
   - [Virtual Machine](#-virtual-machine) - A virtual computer
   - [Token Logger](#-token-logger) - A tool that steals discord tokens
-  - [Discord Tools](#-discord-tools) - Tools for discord
+  - [Discord Tool](#-discord-tool) - Tools for discord
 
 ## [↑](#-Table-of-Contents) Malware Check
 * [VirusTotal](https://www.virustotal.com/gui/home/upload) - File analysis checks for malware
@@ -20,19 +20,19 @@ These are tools and websites that are helpful
 * [Zphisher](https://github.com/htr-tech/zphisher) - A tool that generates phising links to gain access to a users accound and gives you there IP
 * [Sherlock](https://github.com/sherlock-project/sherlock) - A tool that searches usernames on diffrent social medias and gives you the link to there accounts
 
-## [↑](#-Table-of-Contents)  Remote Access Tool
+## [↑](#-Table-of-Contents) Remote Access Tool
 * [Async](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - A remote access tool
 * [Quasar](https://github.com/quasar/Quasar) - A remote access tool
 
-## [↑](#-Table-of-Contents)  Virtual Machine
+## [↑](#-Table-of-Contents) Virtual Machine
 * [VMware](https://www.vmware.com/) - A virtual machine software
 * [VirtualBox](https://www.virtualbox.org) - A virtual machine software
 
-## [↑](#-Table-of-Contents)  Token Logger
+## [↑](#-Table-of-Contents) Token Logger
 * [Backdoor Machine](https://github.com/0NETAP/Backdoor-Machine) - Create a token logger in Python really easily (Also steals chrome passwords) 
 * [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
 
-## [↑](#-Table-of-Contents)  Discord Tools
+## [↑](#-Table-of-Contents) Discord Tool
 * [Server Nuker](https://github.com/zetism/AveryNuker) - Easily nuke a discord server with a BOT Discord.
 * [VideoCrash Maker](https://github.com/AstraaDev/Discord-VideoCrashMaker) - Convert a video into an identical video that makes Crash discord app when played.
 * [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
