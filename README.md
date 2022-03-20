@@ -10,7 +10,8 @@
   - [Token Logger](#-token-logger) - A tool that steals discord tokens
   - [Discord Tools](#-discord-tools) - Tools for discord
   - [OSINT](#-osint) - Tools used to lookup information on people very useful
-
+  - [Batch Stuff](#-batch-stuff) - Things for the windows language Batch (.bat)
+  
 ## [↑](#-Table-of-Contents) Malware Check
 * [VirusTotal](https://www.virustotal.com/gui/home/upload) - File analysis checks for malware
 * [Intezer](https://analyze.intezer.com) - File analysis checks for malware
@@ -43,6 +44,10 @@
 ## [↑](#-Table-of-Contents) OSINT
 * [OSINT Websites/Information](https://github.com/jivoi/awesome-osint) - A collection of osint programs, websites, and lessions
 
+## [↑](#-Table-of-Contents) Batch Stuff
+* [Batch Obfuscator](https://github.com/BiggerDABOSS/BatchObfuscator) - A obfuscator and deobfuscator for batch script
+* [Batch colors](https://github.com/0NETAP/batcolors) - Color codes for batch script
+* [Batch Lessons](https://www.youtube.com/watch?v=kboexp3QiUg&list=PLAC038703B07D976B) - Youtube video lessons for batch script
 
 
 
