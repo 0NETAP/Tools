@@ -1,6 +1,6 @@
 # Tools
-These are tools and websites that are helpful
-
+- These are tools and websites that are helpful
+ - ⚠️WARNING THE DISCORD TOOL SECTION HAS NOT BEEN CHECKED FOR MALWARE BECAREFUL WHEN RUNNING THOSE FILES ⚠️
 ## 📖 Table of Contents
  
   - [Malware Check](#-malware-check) - Websites/Softwares that check files for malware
